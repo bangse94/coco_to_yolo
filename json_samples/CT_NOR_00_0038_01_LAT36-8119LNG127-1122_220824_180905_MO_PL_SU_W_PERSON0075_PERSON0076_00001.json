@@ -1,0 +1,87 @@
+{
+    "licenses": [
+        {
+            "license_name": "",
+            "license_id": 0,
+            "license_url": ""
+        }
+    ],
+    "info": {
+        "contributor": "",
+        "date_created": "",
+        "description": "",
+        "url": "",
+        "version": "",
+        "year": ""
+    },
+    "categories": [
+        {
+            "category_index": 1,
+            "category_name": "person",
+            "supercategory": ""
+        },
+        {
+            "category_index": 2,
+            "category_name": "scooter",
+            "supercategory": ""
+        },
+        {
+            "category_index": 3,
+            "category_name": "car",
+            "supercategory": ""
+        },
+        {
+            "category_index": 4,
+            "category_name": "bicycle",
+            "supercategory": ""
+        }
+    ],
+    "images": [
+        {
+            "id": 1,
+            "width": 1920,
+            "height": 1080,
+            "file_name": "CT_NOR_00_0038_01_LAT36-8119LNG127-1122_220824_180905_MO_PL_SU_W_PERSON0075_PERSON0076_00001.jpg",
+            "license": 0,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": 0
+        }
+    ],
+    "annotations": [
+        {
+            "image_id": 1,
+            "category_id": 1,
+            "area": 20037.98120000001,
+            "bbox": [
+                1713.49,
+                299.16,
+                104.18,
+                192.34
+            ],
+            "attributes": {
+                "occlusion": 0.0,
+                "occluded": false,
+                "rotation": 0.0,
+                "keyframe": true,
+                "object_id": 75.0,
+                "device": "CT",
+                "time": "MO",
+                "gender": "F",
+                "age": "A",
+                "hair": "SH",
+                "clothes category": "CW",
+                "upper_clothes pattern": "ULA",
+                "upper_clothes_color": "BLU",
+                "defined_upper_clothes_color": "T",
+                "bottom_clothes pattern": "BLP",
+                "bottom_clothes_color": "BL",
+                "defined_bottom_clothes_color": "T",
+                "item": "F",
+                "defined_item": "F",
+                "shape": "NOR"
+            },
+            "annotation_id": 1
+        }
+    ]
+}
